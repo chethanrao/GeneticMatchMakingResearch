@@ -9,3 +9,6 @@ Further potential use cases:
 2) hiring a manager for a team or hiring a manager for set of managers
 3) choosing a business partner
 
+Constraints:
+Need to be EEOC compliant when considering hiring
+
