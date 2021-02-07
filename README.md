@@ -8,6 +8,8 @@ Further potential use cases:
 1) hiring an employee for a team
 2) hiring a manager for a team or hiring a manager for set of managers
 3) choosing a business partner
+4) if genetic match fails for a new hire the person would be matched against several other teams and paired with team that has best genetic match.
+skill match + genetic match = magic
 
 Constraints:
 Need to be EEOC compliant when considering hiring
