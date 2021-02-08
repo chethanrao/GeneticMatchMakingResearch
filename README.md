@@ -15,3 +15,4 @@ Constraints:
 Need to be EEOC compliant when considering hiring
 
 growth mindset towards any relationship or employment opportunity would make the above invalid?
+how can you test whether candidate demonstrates growth mindset or has a fixed mindset?
