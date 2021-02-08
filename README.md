@@ -14,3 +14,4 @@ skill match + culture fit+ genetic match = magic
 Constraints:
 Need to be EEOC compliant when considering hiring
 
+growth mindset towards any relationship or employment opportunity would make the above invalid?
